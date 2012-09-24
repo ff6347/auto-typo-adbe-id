@@ -1,6 +1,20 @@
 auto-typo-adbe-id
 =================
 
+###Thema: Typografie und Automation  
+Ziel ist es die Grundlagen von JavaScript für Adobe Anwendungen zu erlernen, um diese in automatisierten Layouts und generativer Gestaltung anzuwenden. Anhand von Regeln soll roher Text in Form gebracht werden.  
+  
+Das Projekt beginnt mit einer Einführung in Javascript und wie es mit InDesign zusammenarbeitet, dann folgen Projekt- und Ideenentwicklung in Einzel- und Gruppenbesprechungen. Zum Abschluss gibt es ein kurze Gruppenpräsentationen.  
+  
+Vorraussetzungen:  
+
+- Sicherer Umgang mit Adobe InDesign CS4+  
+- Mobiler Computer  
+- Interesse an Programmierung  
+  
+Beginn Dienstag 2. Oktober 10 Uhr  
+Raum 3.16  
+  
 This is the code repository for the FH-Potsdam ;-⟩ project week "Typografie und Automation"  
 - [Incom.org Workspace](http://incom.org/workspace/3916#p103323)  
 
