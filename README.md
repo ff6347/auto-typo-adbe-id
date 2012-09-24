@@ -8,6 +8,7 @@ This is the code repository for the FH-Potsdam ;-⟩ project week "Typografie un
 - [InDesign Scripting SDK](http://www.adobe.com/devnet/indesign/sdk/eula_cs6.html)  
 - [Jongware IDJS Help](http://www.jongware.com/idjshelp.html)  
 - [Incom.org Workspace](http://incom.org/workspace/3916#p103323)  
+- [Script UI for Dummies](http://www.kahrel.plus.com/indesign/scriptui.html)  
 
 ##Tools  
 
@@ -21,6 +22,14 @@ This is the code repository for the FH-Potsdam ;-⟩ project week "Typografie un
 
 ##Downloads  
 
+
+##Books  
+
+####InDesign mit JavaScript automatisieren  
+ID InDesign mit JavaScript automatisieren Peter Kahrel  
+Deutsche Übersetzung von Martin Fischer  
+1. Auflage August 2007  
+ISBN 978-3-89721-624-2  
 
 ##Pages  
 
