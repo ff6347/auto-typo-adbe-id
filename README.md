@@ -2,13 +2,16 @@ auto-typo-adbe-id
 =================
 
 This is the code repository for the FH-Potsdam ;-⟩ project week "Typografie und Automation"  
+- [Incom.org Workspace](http://incom.org/workspace/3916#p103323)  
 
 ##Links  
 
 - [InDesign Scripting SDK](http://www.adobe.com/devnet/indesign/sdk/eula_cs6.html)  
 - [Jongware IDJS Help](http://www.jongware.com/idjshelp.html)  
-- [Incom.org Workspace](http://incom.org/workspace/3916#p103323)  
+- [Jongware IDGrep Help](http://www.jongware.com/idgrephelp.html)  
 - [Script UI for Dummies](http://www.kahrel.plus.com/indesign/scriptui.html)  
+- [ID Scripting Guide Scripts](http://www.adobe.com/devnet/indesign/documentation.html#idscripting)  
+
 
 ##Tools  
 
@@ -17,8 +20,10 @@ This is the code repository for the FH-Potsdam ;-⟩ project week "Typografie un
 ##Examples  
 
 
-##Forums  
+##Fori  
 
+- [ID Hilf Dir Selbst](http://www.hilfdirselbst.ch/foren/Adobe_InDesign_Skriptwerkstatt_Forum_61.html)  
+- [ID Adobe InDesign Scripting](http://forums.adobe.com/community/indesign/indesign_scripting)  
 
 ##Downloads  
 
