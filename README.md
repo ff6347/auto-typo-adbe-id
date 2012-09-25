@@ -32,9 +32,13 @@ Raum 3.16
 
 ##Tools  
 
-- [ExtendScript Toolkit]()  
-- [Sublime Text 2]()  
-- [iChm MAC])() 
+> The latest version of ExtendScript Toolkit (ESTK 3.8) is available with Creative Suite 6.
+> [Source](http://www.adobe.com/devnet/scripting.html)  
+
+- [Sublime Text 2](http://www.sublimetext.com)  
+
+- [iChm MAC])(http://www.robinlu.com/ichm)  
+
 - chm its native WIN [reader list](http://blog.kowalczyk.info/articles/chm-reader-viewer-for-windows.html)  
 
 ##Reference  
