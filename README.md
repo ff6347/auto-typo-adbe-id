@@ -69,9 +69,8 @@ Raum 3.16
 `var arr = ["a","b","c"]; var n = a.length;`
 
     /*
-    Everyting is an object and has own functions and properties like
-    the  array.length or string.substring()
-    only primitives like Numbers and Booleans act a bit diffrent 
+    Everyting is an object and has own properties and functions like
+    the  array.length or string.split("")
     */
 
 ####Structures  
@@ -185,7 +184,8 @@ ISBN 978-3-89721-624-2
 ##Pages  
 
 ##Contributers  
-@fabiantheblind  
+
+[fabiantheblind](https://github.com/fabiantheblind)  
 
 ##Licenses  
 
