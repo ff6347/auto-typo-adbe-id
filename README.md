@@ -21,7 +21,7 @@ Raum 3.16
 - [Incom.org Workspace](http://incom.org/workspace/3916#p103323)  
 
 -----------------------  
-
+In the first session we will dive into the basics of javascript / extendscript for Adobe applications depending on your programming skills.
 
     	   _____ ________________ ________  _   __   ____  _   ________
     	  / ___// ____/ ___/ ___//  _/ __ \/ | / /  / __ \/ | / / ____/
@@ -30,29 +30,39 @@ Raum 3.16
     	/____/_____//____/____/___/\____/_/ |_/   \____/_/ |_/_____/   
     	                                                               
 
+#!Learn Javascript the Hard Way! || !Dont Copy & Paste!  
+
 ##Tools  
 
-> The latest version of ExtendScript Toolkit (ESTK 3.8) is available with Creative Suite 6.
+- ExtendScript Toolkit  
+
+> The latest version of ExtendScript Toolkit (ESTK 3.8) is available with Creative Suite 6.  
+
 > [Source](http://www.adobe.com/devnet/scripting.html)  
 
 - [Sublime Text 2](http://www.sublimetext.com)  
 
-- [iChm MAC])(http://www.robinlu.com/ichm)  
+- [iChm MAC](http://www.robinlu.com/ichm)  
 
-- chm its native WIN [reader list](http://blog.kowalczyk.info/articles/chm-reader-viewer-for-windows.html)  
+- .chm its native WIN format [e.g. chm reader list](http://blog.kowalczyk.info/articles/chm-reader-viewer-for-windows.html)  
 
 ##Reference  
 
-##Content  
+- [InDesign Scripting SDK](http://www.adobe.com/devnet/indesign/sdk/eula_cs6.html)  
 
-###Beginners  
+- [Jongware IDJS Help](http://www.jongware.com/idjshelp.html)  
 
-`//Comment in english please`  
+
+##Code  
+
+`//Comments in english - please`  
 
     /* 
     Variables should have meaningfull names
     as in the examples below ;)
     */
+
+###Variables, Operators, Arrays & Objects  
 
 ####Variables  
 
@@ -62,9 +72,49 @@ Raum 3.16
 
 `var c = true;//Boolean`  
 
+####Output  
+
+    /*
+    To get a quick look at an value use alerts
+    like this
+    */
+    var bool = true;
+    alert(bool);  
+
+####Operations  
+
+    /*
+    You can use operators to transform variables
+    + - * / % = . ++ -- += -= *= /= 
+    like this 
+    */
+    
+    var a = 10000;
+    var b = 356;
+    var res = b / a;
+    alert(res);
+    alert(5%4); // modulo
+    alert((a/100)*13);
+
+####Arrays  
+
+    /*
+    Arrays are like lists of things. You can put variables
+    in there and access them by an index. Like this
+    */  
+
+
 `var x = [1,2,3];//Array Number`  
 
-`var x = ["Hello","World","!"];//Array String`  
+`var x = ["Hello","World","!"]; //Array String`  
+
+
+    var arr_str = ["Hello","World","!"];  
+    var s1 = arr_str[1];
+    var s2 = arr_str[2];
+    var length_of_world = s2.length;
+
+####Objects
 
 `var o = {"a":"Hello World","b":5.5,"c":true,"x":[1,2,3]};//Object`  
 
@@ -81,7 +131,12 @@ Raum 3.16
 
     /*
     Use structures to make decisions and repetition  
+    with more operators for that  
+    < > <= >= == || && !=  
     */
+
+
+####Conditional  
 
 `if ( ){ }`  
 
@@ -89,13 +144,25 @@ Raum 3.16
 
 `{ } else if ( ) { }`  
 
+####Loop
+
 `while ( ) { }`  
 
 `try { } catch (e) { }`  
 
-`for ( var i = 0; i < x.length; i++ ) { x[i] += 1; }`  
+    var x = [1,2,3]
+    for ( var i = 0; i < x.length; i++ ) { x[i] += 1; }  
 
-`for ( var key in o ){ alert( key );}`  
+####Looping Objects
+
+    var o = {
+        "a":"Hello World",
+        "b":5.5,
+        "c":true,
+        "x":[1,2,3]
+    };//Object  
+
+    for ( var key in o ){ alert( key );}  
 
 ####Interaction  
 
@@ -104,17 +171,58 @@ Raum 3.16
     alerts, prompts and comfirms
     */
 
-`alert("Hello World");`  
+    var res = null;
 
-`var res = confirm("Hello World?",false,"Title WIN only"); alert(res);;`  
+    res = confirm("Hello World?",false,"Title WIN only");
 
-`var res = prompt("Enter something:","Hello World","Title WIN only"); alert(res);`  
+    if(res == true){
+        res = prompt("Enter something:","Hello World!","Title WIN only");
+        alert(res);
+    }else if(res == false){
+        alert("nothing to see here. Move along!");
+    }  
+
 
 ####Inspect  
 
 `alert(x.toSource());`  
 
 `alert(x.toString());`  
+
+`$.writeln("Hello World");// use this in ESTK`  
+
+####ID Scrpting DOM  
+
+    /*
+    As in javascript everything is an object  
+    you can for example add a doc with a textframe on the first page with  
+    */
+
+    var aString = "Hello World!\rHello Dude. How are you?\rFine and you?";
+    var doc = app.documents.add();
+    var pg = doc.pages[0];
+    var d_pref = doc.documentPreferences;
+    var pw = d_pref.pageWidth;
+    var ph = d_pref.pageHeight;
+
+
+    var x1 = 13;
+    var y1 = 13;
+    var x2 = pw - x1;
+    var y2 = ph - y1;
+    var gb = [y1, x1, y2, x2];
+
+    var tf = pg.textFrames.add();
+    tf.geometricBounds = gb;
+    tf.contents = aString;
+    for(var i = 0; i < tf.paragraphs.length; i++){
+        var par = tf.paragraphs[i];
+        alert(par + "-->" + par.contents);
+
+        for(var j = 0; j < par.words.length; j++){
+            alert(par.words[j].contents);
+            }
+    }
 
 ##Links  
 
@@ -156,15 +264,15 @@ Raum 3.16
 
 ##Examples  
 
-[load file](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
+[load file not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
-[transformation matrices](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
+[transformation matrices not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
-[colors](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/my4o4.md)  
+[colors not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
-[get font number](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
+[get font number not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
-[great power](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
+[great power not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
 
 -----------------------  
