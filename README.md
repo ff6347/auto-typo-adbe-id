@@ -249,19 +249,6 @@ In the first session we will dive into the basics of javascript / extendscript f
     	 / /  / / /___  / / / ___ |/ /_/ / ___ |/ / / ___ |
     	/_/  /_/_____/ /_/ /_/  |_/_____/_/  |_/_/ /_/  |_|
 
-
-##Links  
-
-- [InDesign Scripting SDK](http://www.adobe.com/devnet/indesign/sdk/eula_cs6.html)  
-- [ID Scripting Documentation](http://www.adobe.com/devnet/indesign/documentation.html#idscripting)  
-- [Jongware IDJS Help](http://www.jongware.com/idjshelp.html)  
-- [Jongware IDGrep Help](http://www.jongware.com/idgrephelp.html)  
-- [Script UI for Dummies](http://www.kahrel.plus.com/indesign/scriptui.html)  
-- [FHP Typo Standard 1](http://fabiantheblind.github.com/theGrids/)  
-- [FHP Typo Standard 2](http://fabiantheblind.github.com/TypoStandard/)  
-- [FHP Typo Standard 3](http://fabiantheblind.github.com/NextTypoStandard/)  
-- [FTB ID Snippets](http://fabiantheblind.github.com/IDSnippets/)  
-
 ##Examples  
 
 [load file not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
