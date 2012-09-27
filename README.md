@@ -2,8 +2,8 @@ auto-typo-adbe-id
 =================
 
 This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation". This documentation will be mostly german at first. I will try to translate it all to english  
-
-##See [the wiki](https://github.com/fabiantheblind/auto-typo-adbe-id/wiki) for further info  
+  
+See [the wiki](https://github.com/fabiantheblind/auto-typo-adbe-id/wiki) for further info  
 
 ##Examples  
 
