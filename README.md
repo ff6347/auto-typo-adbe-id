@@ -4,6 +4,7 @@ auto-typo-adbe-id
 This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation".
 
 ##Examples  
+The examples will be generated from the projects the contributers create.  
 
 [load file not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
