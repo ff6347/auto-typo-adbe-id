@@ -7,15 +7,17 @@ See [the wiki](https://github.com/fabiantheblind/auto-typo-adbe-id/wiki) for fur
 
 ##Examples  
 
-[load file not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
+- [ex1 inspectProperties.jsx](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/inspectProperties.jsx)  
+
+- [load file not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
-[transformation matrices not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
+- [transformation matrices not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
-[colors not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
+- [colors not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
-[get font number not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
+- [get font number not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
-[great power not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
+- [great power not done yet](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/this_example_does_not_exist.md)  
   
 
 -----------------------  
