@@ -1,24 +1,13 @@
 #ftb readme  
 
 ###inspectProperties.jsx  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ###load_text.jsx  
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ###some gists  
-<script src="https://gist.github.com/2654624.js"> </script>  
-
+- [catch an error](https://gist.github.com/2654624) `try{}catch(e){}`  
+- [What is a](https://gist.github.com/2654512) `#targetengine "my_session"`  
+- [greatPower](https://gist.github.com/2651815) `app.documents.everyItem().close(SaveOptions.NO);`  
 ##License  
 
 Copyright (c)  2012 Fabian "fabiantheblind" Morón Zirfas  
