@@ -1,11 +1,10 @@
 auto-typo-adbe-id
 =================
 
-This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation". This documentation will be mostly german at first. I will try to translate it all to english  
-  
-See [the wiki](https://github.com/fabiantheblind/auto-typo-adbe-id/wiki) for further info  
+This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation".
 
 ##Examples  
+The examples will be generated from the projects the contributers create.  
 
 - [ex1 inspectProperties.jsx](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/inspectProperties.jsx)  
 
