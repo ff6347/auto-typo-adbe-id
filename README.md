@@ -6,17 +6,6 @@ This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & 
 ##Examples  
 The examples will be generated from the projects the contributers create.  
 
-- [ex1 inspectProperties.jsx](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/fabiantheblind/inspectProperties.jsx)  
-
-This script can be used to ispect a given properties.
-You can set it to the selection. This is not active by default. It takes an object as argument and than loops through all of its properties. Then the user can decide if he wants to write the result to an .txt file or just alert it.  
-
-
-
-- [ex2 load_text.jsx](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/fabiantheblind/load_text.jsx)  
-This script is also part of the wiki. The user can select a file. If the file has content it will create a new document with a specific size, add a textFrame to the first page and push the content to that textFrame.  
-  
-
 -----------------------  
 
 ##Pages  
