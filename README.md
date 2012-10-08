@@ -1,7 +1,7 @@
 auto-typo-adbe-id
 =================
 
-This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation".
+This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation". For further info have a look into [the wiki](https://github.com/fabiantheblind/auto-typo-adbe-id/wiki).  
 
 ##Examples  
 The examples will be generated from the projects the contributers create.  
