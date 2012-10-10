@@ -1,7 +1,15 @@
-  /*
-  a basic find and change script not using fc queries
-  */
-  
+    /*
+    author: @fabiantheblind
+    a basic find and change script the build in find text options
+    
+    
+    
+    */
+
+
+
+
+
   /*
   This is the text we are going to change
   look at the fnords

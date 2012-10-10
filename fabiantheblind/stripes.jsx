@@ -1,7 +1,10 @@
-﻿/**
- *  Lets play with colors
- *  to use colors you NEED to create a swatch 
- */
+﻿    /*
+    author: @fabiantheblind
+    Lets play with colors
+    to use colors you NEED to create a swatch 
+    
+    
+    */
 
 main();
 function main (){

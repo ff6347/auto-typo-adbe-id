@@ -1,3 +1,12 @@
+    /*
+    author: @fabiantheblind
+    This script shows how to use the pathfinder options from script
+    It duplicates some pages with polygons.
+    It also has a handy doc setup function
+    
+    */
+
+
 main();
 
 function main () {

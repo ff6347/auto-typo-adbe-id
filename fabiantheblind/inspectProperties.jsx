@@ -1,4 +1,12 @@
-﻿// Copyright (c)  2012 
+﻿    /*
+    author: @fabiantheblind
+    This sciprt can be used to inspect the properties of obejects
+    from the ID Scripting DOM
+    
+    
+    */
+    
+// Copyright (c)  2012 
 // Fabian "fabiantheblind" Morón Zirfas  
 // Permission is hereby granted, free of charge, to any 
 // person obtaining a copy of this software and associated

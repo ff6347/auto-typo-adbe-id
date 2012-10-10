@@ -1,0 +1,1 @@
+﻿ var scriptfile = File(File($.fileName).path+"/testfile.txt");  alert(scriptfile);  var content;  if(scriptfile != false){      scriptfile.open('r');      content = scriptfile.read();      alert(content);      scriptfile.close(); // always close files after reading      }else{      alert("Bah!");          }

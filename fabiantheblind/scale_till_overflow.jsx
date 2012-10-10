@@ -1,10 +1,10 @@
-
-
-/*
-this script centers a character on a page
-and sizes him up until he fills the textframe
-written by @fabiantheblind
-*/
+    /*
+    author: @fabiantheblind
+    this script centers a character on a page
+    and sizes him up until he fills the textframe
+    
+    
+    */
 
 // create a doc with a size of 200 w and h
 var doc = app.documents.add({

@@ -1,8 +1,10 @@
-/*
-This script creates a 2 dimensional array to create a matrix
-you can acces object by the number of the column or the row
-
- 
+    /*
+    author: @fabiantheblind
+    This script creates a 2 dimensional array to create a matrix
+    you can acces object by the number of the column or the row
+    
+    
+    
 		X---0---1---2---3---4---5---6-->7
 		*-------------------------------*
 C		Y	0	0	0	0	0	0	0	0

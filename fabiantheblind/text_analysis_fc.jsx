@@ -1,7 +1,12 @@
-/*
-This is text analysis the InDesign way.
-It uses the InDesign Find And Change Options
-*/
+    /*
+    author: @fabiantheblind
+    
+    This is text analysis the InDesign way.
+    It uses the InDesign Find And Change Options
+    
+    */
+
+
 main();
 function main(){
   // create doc, get page, add textframe

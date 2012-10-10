@@ -1,10 +1,11 @@
-﻿/*
- This script takes a peek into the layers
- It makes use of the printable option to make the layer invisible
- it is NOT the visible option ( the tiny eye on the lyer panel)
- have a deeper look into layers and their props here:
- http://jongware.mit.edu/idcs6js/pc_Layer.html
-*/
+    /*
+    author: @fabiantheblind
+    This script takes a peek into the layers
+    It makes use of the printable option to make the layer invisible
+    it is NOT the visible option ( the tiny eye on the lyer panel)
+    have a deeper look into layers and their props here: http://jongware.mit.edu/idcs6js/pc_Layer.html
+    */
+
 main();
 function main (){
 

@@ -1,6 +1,12 @@
-/**
- *  Lets build a doc
- */
+    /*
+    author: @fabiantheblind
+    this scirpt builds a document 
+    
+    
+    
+    */
+
+
 main();
 function main(){
     

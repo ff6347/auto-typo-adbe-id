@@ -1,9 +1,10 @@
-﻿// includeme.jsx
-/**
- *  This file does not get execudet
- *  it only works together with
- *  inlcudehere.jsx and has to be next to it
- */
+﻿    /*
+    author: @fabiantheblind
+    This file does not get execudet
+    it only works together with
+    inlcudehere.jsx and has to be next to it
+    
+    */
 
 // store data in this file to keep your code tidy
 // call data from the other file

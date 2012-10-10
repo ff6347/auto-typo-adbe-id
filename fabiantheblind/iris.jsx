@@ -1,7 +1,12 @@
-﻿// based on this processing sketch by
-// PhiLho
-// http://forum.processing.org/topic/how-can-i-draw-this#25080000000995029
-// the size of the page
+﻿    /*
+    author: @fabiantheblind
+    This script creates a graphicline in circles
+    based on this processing sketch by PhiLho
+    http://forum.processing.org/topic/how-can-i-draw-this#25080000000995029
+    the size of the page
+    */
+
+
 var ph= 150;
 var pw= 150;
 

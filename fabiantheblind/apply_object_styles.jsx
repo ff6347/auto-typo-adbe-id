@@ -1,8 +1,12 @@
-/*
-This script creates objecxt styles and applies them to some 
-pageItems
+    /*
+    author: @fabiantheblind
+    This script creates objecxt styles and applies them
+    to some pageItem.
+    
+    
+    */
 
-*/
+
 
 // create a document
   var pw = 170; // for better handling

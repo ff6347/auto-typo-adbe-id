@@ -1,6 +1,10 @@
-/*
-a basic find and change script not using fc queries
-*/
+    /*
+    author: @fabiantheblind
+    a basic find and change script not grep fc queries
+    
+    
+    
+    */
 
 /*
 This is the text we are going to change

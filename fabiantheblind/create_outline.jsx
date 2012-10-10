@@ -1,10 +1,11 @@
-/*
-	This scipt create outlines from text
-	aligns some objects
-	builds a group
+    /*
+    author: @fabiantheblind
+    This scipt create outlines from text
+    aligns some objects
+    builds a group
+    
+    */
 
-
-*/
 // this is only prerequisite make a doc with some objects
 // create a doc with a size of 200 w and h
 var doc = app.documents.add({

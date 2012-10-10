@@ -1,6 +1,10 @@
-﻿/**
- * Rectangles ovlas polygons    
- */
+﻿    /*
+    author: @fabiantheblind
+    Rectangles ovlas polygons
+    This script creates some graphic elements and shows how to load text
+    also there is a wired JSON object for interacting with the user
+    
+    */
 
 main();
 

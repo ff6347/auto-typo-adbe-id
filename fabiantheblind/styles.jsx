@@ -1,9 +1,11 @@
-﻿/**
- *  With styles you can controll your text
- */
-// a function
-// this script has to be saved somewhere
-// or this wont work
+﻿    /*
+    author: @fabiantheblind
+    With styles you can controll your text
+    this script has to be saved somewhere or this wont work
+    It loads itself to build some syntax highlighted text
+    The syntax highlite is rough and not rock solid but it gives a look into nested GREP styles
+    */
+
 
 main();
 function main(){
