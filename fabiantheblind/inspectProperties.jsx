@@ -1,4 +1,4 @@
-﻿    /*
+    /*
     author: @fabiantheblind
     This sciprt can be used to inspect the properties of obejects
     from the ID Scripting DOM

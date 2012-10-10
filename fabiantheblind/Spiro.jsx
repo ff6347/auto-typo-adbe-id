@@ -1,4 +1,4 @@
-﻿    /*
+    /*
     author: @fabiantheblind
     This script creates a graphicline in circles
     based on this processing sketch by PhiLho

@@ -1,4 +1,4 @@
-﻿    /*
+    /*
     author: @fabiantheblind
     includehere.jsx
     You have to define a path

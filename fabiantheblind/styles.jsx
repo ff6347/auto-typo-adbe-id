@@ -1,5 +1,5 @@
-﻿    /*
-    author: @fabiantheblind
+    /*
+    author: @fabiantheblind  
     With styles you can controll your text
     this script has to be saved somewhere or this wont work
     It loads itself to build some syntax highlighted text

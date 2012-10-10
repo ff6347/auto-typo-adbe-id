@@ -1,4 +1,4 @@
-﻿    /*
+    /*
     author: @fabiantheblind
     This script shows how to read and write files
     
