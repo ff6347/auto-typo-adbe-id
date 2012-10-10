@@ -1,4 +1,11 @@
-﻿```js
+﻿    /*
+    author: @fabiantheblind
+    This script shows how to read and write files
+    
+    
+    
+    */
+
     main();
     function main(){
         
@@ -66,5 +73,3 @@
         // try to play with:
         // File.open ('a', undefined, undefined);
     };
-
-```

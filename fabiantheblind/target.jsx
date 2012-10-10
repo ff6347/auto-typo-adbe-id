@@ -1,8 +1,12 @@
-﻿/**
- *  Look for an active document
- *  without try catch it could produce an error
- *  
- */
+﻿    /*
+    author: @fabiantheblind
+    
+    Look for an active document
+    without try catch it could produce an error
+    
+    */
+
+
 var doc;
 try{
     

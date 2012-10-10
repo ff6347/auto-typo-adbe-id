@@ -1,4 +1,12 @@
-﻿// Copyright (c)  2012 
+﻿    /*
+    author: @fabiantheblind
+    This script loads a textfile and creates a document with a textFrames
+    to place the content.
+    
+    
+    */
+
+// Copyright (c)  2012 
 // Fabian "fabiantheblind" Morón Zirfas  
 // Permission is hereby granted, free of charge, to any 
 // person obtaining a copy of this software and associated
@@ -21,8 +29,7 @@
 // see also http://www.opensource.org/licenses/mit-license.php
 
 
-// This script loads a textfile and creates a document with a textFrames
-// to place the content.
+
 
 
 var txtFile = File.openDialog("Choose your file","*.*",false);

@@ -1,7 +1,11 @@
-/*
-A simple script that demonstrates hoe to place an image in the text
-using insertionPoints
-*/
+    /*
+    author: @fabiantheblind
+    A simple script that demonstrates hoe to place an image in the text
+    using insertionPoints
+    
+    
+    */
+
 var ph = 200;// for better handling
 var pw = 200; // for better handling
 

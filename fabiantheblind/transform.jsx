@@ -1,3 +1,11 @@
+    /*
+    author: @fabiantheblind
+    2 transformations
+    by duplicating the polygon and giving him a new location relative to its original
+    by applying transformationMatricies we created in a loop
+    !Hint: there is also a option that is called transformAgain
+    */
+
 main();
 
 function main(){
@@ -24,7 +32,6 @@ tf.createOutlines(true); // make a polygon from the text createOutlines returns 
 In the loop we do 2 transformations
 once by duplicating the polygon and giving him a new location
 relative to its original
-
 than we apply a transform with the matricies we created in the loop
 there is also a option that is called transformAgain
 */

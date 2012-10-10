@@ -1,3 +1,10 @@
+    /*
+    author: @fabiantheblind
+    This script analyses a text and gets the positions of words
+    Has also a nice setup function:
+    This function creates a document with some preset vales
+    It also creates a textframe on page one
+    */
 main();
 
 function main(){

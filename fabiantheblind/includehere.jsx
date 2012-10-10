@@ -1,9 +1,11 @@
-﻿/**
- *  includehere.jsx
- *  You have to define a path
- *  The file called includeme.jsx has to be next to
- *  This file
- */
+﻿    /*
+    author: @fabiantheblind
+    includehere.jsx
+    You have to define a path
+    The file called includeme.jsx has to be next to this file
+    
+    */
+
 #include "includeme.jsx"
 
 // the variable data is in the included file

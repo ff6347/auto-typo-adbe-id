@@ -1,3 +1,12 @@
+    /*
+    author: @fabiantheblind
+    This script returns the location of one selected character
+    
+    
+    
+    */
+
+
 
 if(app.selection[0] instanceof Character){
 

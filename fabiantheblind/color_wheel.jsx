@@ -1,11 +1,11 @@
-/*
-This script shows how to use a nifty js color function that I've found here
-// http://www.codingforums.com/showthread.php?t=11156
+    /*
+    author: @fabiantheblind
+    This script shows how to use a nifty js color function that I've found here
+    // http://www.codingforums.com/showthread.php?t=11156
+    This function converts HSL to RGB values.
+    Why use HSL? It is much easier to create harmonic colors 
+    */
 
-This function converts HSL to RGB values.
-Why use HSL?
-It is much easier to create harmonic colors 
-*/
 main();
 function main (){
 

@@ -1,8 +1,10 @@
-/*
-This script shows some user interaction
-It has a delay function and rsets the view prefs
-
-*/
+    /*
+    author: @fabiantheblind
+    This script shows some user interaction
+    It has a delay function and resets the view prefs
+    
+    
+    */
 main();
 
 function main (){

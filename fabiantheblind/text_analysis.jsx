@@ -1,7 +1,12 @@
-/*
-This is text analysis the javascript way
-This script splits a string by its words and checks for doubles
-*/
+    /*
+    author: @fabiantheblind
+    This is text analysis the javascript way
+    This script splits a string by its words and checks for doubles
+    
+    
+    */
+
+
 main();
 function main(){
   // create doc, get page, add textframe

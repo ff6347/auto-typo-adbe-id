@@ -1,6 +1,10 @@
-/*
-this script creates a textpath
-*/
+    /*
+    author: @fabiantheblind
+    this script creates a textpath
+    and plays with anchors
+    !Ride The Walrus
+    
+    */
 
 var pw = 200;
 var ph = 200;
@@ -35,7 +39,7 @@ pathpoint3.anchor = p3;
 
 pathpoint1.rightDirection = [p1[0] + off, p1[1] - off];
 pathpoint2.leftDirection  = [p2[0] - off*2, p2[1] + off*2];
-pathpoint2.rightDirection = [p2[0] + off*2, p2[1] - off*2];
+pathpoint2.rightDirection = [p2[0] + off*2, p2[1] + off*2];
 pathpoint3.leftDirection  = [p3[0] - off, p3[1] + off];
 gl.strokeWeight = 0;
 gl.textPaths.add({contents:"Ride the Wallrus!"});
@@ -47,22 +51,12 @@ var ptsz = par.pointSize; // get the actual pointsize
 
 // a while loop 
 // if the tf is not overlflowing scale up
-while(gl.textPaths.item(0).overflows == false){
-        
-    par.pointSize = ptsz;
-        ptsz++;
-        }
+do{
+  par.pointSize = ptsz;
+  ptsz++;
+} while(gl.textPaths.item(0).overflows == false);
 
-// now he has overflow so scale down again until the overflow is gon
-while(gl.textPaths.item(0).overflows == true){
-         ptsz--;
-        par.pointSize = ptsz;
-        }
+ptsz = ptsz - 5;
+par.pointSize = ptsz;
 
-for(var i = 0; i < gl.textPaths.item(0).characters.length; i++){
-	var singlechar = gl.textPaths.item(0).characters.item(i);
-	singlechar.pointSize = (Math.sin(i) * 5) + 10;
-
-
-};
 
