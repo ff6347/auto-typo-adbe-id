@@ -11,7 +11,7 @@
 --------------  
   
 ###Spiro.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     This script creates a graphicline in circles
     based on this processing sketch by PhiLho
@@ -121,7 +121,7 @@
 --------------  
   
 ###includehere.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     includehere.jsx
     You have to define a path
@@ -132,7 +132,7 @@
 --------------  
   
 ###includeme.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     This file does not get execudet
     it only works together with
@@ -143,7 +143,7 @@
 --------------  
   
 ###inspectProperties.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     This sciprt can be used to inspect the properties of obejects
     from the ID Scripting DOM
@@ -154,7 +154,7 @@
 --------------  
   
 ###iris.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     This script creates a graphicline in circles
     based on this processing sketch by PhiLho
@@ -165,7 +165,7 @@
 --------------  
   
 ###load_text.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     This script loads a textfile and creates a document with a textFrames
     to place the content.
@@ -209,7 +209,7 @@
 --------------  
   
 ###read_file.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     This script shows how to read in a file and evaluate the JSON STring from in there
     It needs the JSONString.json file to be next to the script
@@ -220,7 +220,7 @@
 --------------  
   
 ###read_write_files.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     This script shows how to read and write files
     
@@ -231,7 +231,7 @@
 --------------  
   
 ###rect_oval_poly.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     Rectangles ovlas polygons
     This script creates some graphic elements and shows how to load text
@@ -286,7 +286,7 @@
 --------------  
   
 ###stripes.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     Lets play with colors
     to use colors you NEED to create a swatch 
@@ -297,8 +297,8 @@
 --------------  
   
 ###styles.jsx
-﻿    /*
-    author: @fabiantheblind
+    /*
+    author: @fabiantheblind  
     With styles you can controll your text
     this script has to be saved somewhere or this wont work
     It loads itself to build some syntax highlighted text
@@ -308,7 +308,7 @@
 --------------  
   
 ###target.jsx
-﻿    /*
+    /*
     author: @fabiantheblind
     
     Look for an active document

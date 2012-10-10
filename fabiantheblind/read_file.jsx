@@ -1,4 +1,4 @@
-﻿    /*
+    /*
     author: @fabiantheblind
     This script shows how to read in a file and evaluate the JSON STring from in there
     It needs the JSONString.json file to be next to the script

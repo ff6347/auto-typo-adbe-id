@@ -1,4 +1,4 @@
-﻿    /*
+    /*
     author: @fabiantheblind
     This file does not get execudet
     it only works together with

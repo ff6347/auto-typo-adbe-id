@@ -1,4 +1,4 @@
-﻿    /*
+    /*
     author: @fabiantheblind
     
     Look for an active document

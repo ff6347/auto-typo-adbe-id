@@ -1,4 +1,4 @@
-﻿    /*
+    /*
     author: @fabiantheblind
     Lets play with colors
     to use colors you NEED to create a swatch 

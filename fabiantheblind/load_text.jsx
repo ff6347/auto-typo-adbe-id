@@ -1,4 +1,4 @@
-﻿    /*
+    /*
     author: @fabiantheblind
     This script loads a textfile and creates a document with a textFrames
     to place the content.
