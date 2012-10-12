@@ -1,3 +1,7 @@
+---
+layout: nil
+title: index
+---
 auto-typo-adbe-id
 =================
 
