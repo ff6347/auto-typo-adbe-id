@@ -1,6 +1,14 @@
 body {
-  width: 100%;
+  font-family: Georgia, serif;
+  font-size: 1.2em;
+  max-width: 70%;
+  margin: auto;
 }
 img {
-  width: 100%;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
