@@ -1,4 +1,4 @@
-![TEASER IMAGE](https://raw.github.com/natael/swissd/master/avatar.png)
+![AVATAR IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/avatar.png)
 
 Hello
 ---
@@ -7,7 +7,7 @@ and this is my project for "typography and automation".
 
 swissd.jsx
 ---
-![TEASER IMAGE](https://raw.github.com/natael/swissd/master/teaser.png)
+![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/teaser.png)
 
 with swissd.jsx you can generate a width-fixed typo.
 
