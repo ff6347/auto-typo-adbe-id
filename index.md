@@ -7,7 +7,10 @@ auto-typo-adbe-id
 =================
 
 ![splash](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/auto-typo.png)  
-This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation". For further info have a look into [the wiki](https://github.com/fabiantheblind/auto-typo-adbe-id/wiki).  
+This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation".
+The goal was to learn the basics of JavaScript for Adobe applications to apply this in automated layouts and generative art. Bring raw text into shape by rules.  
+  
+The project begun with an introduction to JavaScript and how it works with InDesign, then project and idea development to follow in individual and group meetings. At the end there was a short presentations. For further info have a look into [the wiki](https://github.com/fabiantheblind/auto-typo-adbe-id/wiki).    
 
 ##Examples  
 The examples will be generated from the projects the contributers create.  
