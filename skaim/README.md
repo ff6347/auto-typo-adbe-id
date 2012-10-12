@@ -1,4 +1,4 @@
-![THIS IS MY AVATAR](avatar_500x500px.png)
+![THIS IS MY AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/skaim/avatar_500x500px.png)
 
 
 Hej! 
@@ -7,14 +7,14 @@ I'm Sebastian, [skaim](https://github.com/skaim) here on github. I'm studying In
 
 CharSweeper.jsx  
 ---
-![TEASER IMAGE](CharSweeper_teaser2.png)
+![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/skaim/CharSweeper_teaser2.png)
 
-![TEASER IMAGE](CharSweeper_teaser1.png)
+![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/skaim/CharSweeper_teaser1.png)
   
 This script produces an InDesign document illustrating the single characters of the user's first name. The position of these characters (in black) within a matrix is random, as well as the surrounding characters. Direct neighbors (top, bottom, left, right) are depicted in gray. 
 The overall composition may be viewed as a reminiscence to the classic game "Minesweeper".
 
-[TO THE CHARSWEEPER-SCRIPT](CharSweeper.jsx)  
+[TO THE CHARSWEEPER-SCRIPT](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/skaim/CharSweeper.jsx)  
  
 
 License  
