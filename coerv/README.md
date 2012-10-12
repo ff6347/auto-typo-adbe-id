@@ -1,5 +1,5 @@
 
-![Avatar Image](avatar.png)
+![Avatar Image](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/coerv/avatar.png)
 
 Hello,
 =====
@@ -7,7 +7,7 @@ my name is Corvin. I'm an Interface-Design-Student at University of applied scie
 
 121011_charactermosaic.jsx
 -------------------------------------
-![Teaser Image](teaser.png) I wrote a script that creates simple mosaic with the letter "a".
+![Teaser Image](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/coerv/teaser.png) I wrote a script that creates simple mosaic with the letter "a".
 At first it adds a 180 × 180 mm text frame on a 200 × 200 mm page and fills it with the letter "a". It then applies one of five swatches to each letter, beginning with the darkest one and finishing with the lightest one. The result is a colorful grid of "a"s, that shows a nice pattern, due to the order of colours.
 This grid is duplicated to another layer and the colours are reversed. A cutout shape in the form of a big "a", going across the entire height of the text frame is generated and centered. Lastly the duplicated text frame is cut out and pasted into the cutout shape.
 
