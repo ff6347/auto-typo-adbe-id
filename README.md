@@ -7,8 +7,8 @@ The goal was to learn the basics of JavaScript for Adobe applications to apply t
   
 The project begun with an introduction to JavaScript and how it works with InDesign, then project and idea development to follow in individual and group meetings. At the end there was a short presentations. For further info have a look into [the wiki](https://github.com/fabiantheblind/auto-typo-adbe-id/wiki).    
 
-##Examples  
-The examples will be generated from the projects the contributers create.  
+##Results  
+The results will be generated from the projects the contributers create.  
 
 ##Submodules  
 For some of the results there is also a git submodule included. This is the link to the original repo where the code my be developed further.  
