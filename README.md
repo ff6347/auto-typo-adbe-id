@@ -6,8 +6,13 @@ This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & 
 ##Examples  
 The examples will be generated from the projects the contributers create.  
 
------------------------  
+##Known Issues and To-Dos  
+In a lot of these scripts the authors used specific fonts. So you have to change the fonts to make them work properly.  
+Also there could be some issues with pointSize if you use diffrent fonts. Keep a eye on that. If you run into any problems add an [issue over here](https://github.com/fabiantheblind/auto-typo-adbe-id/issues) and we will get back to you with a fix.  
 
+
+-----------------------  
+  
 ##Pages  
 
 Will be build after the project  
