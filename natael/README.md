@@ -1,5 +1,3 @@
-#Hello
-=======
 ![AVATAR IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/avatar.png)
 
 Hello
