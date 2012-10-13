@@ -3,6 +3,7 @@
 *.indd
 adinaradke/.DS_Store
 AnitaMei/.DS_Store
+!AnitaMei/*.pdf
 ce0311/.DS_Store
 ce0311/*.pdf
 coerv/.DS_Store
