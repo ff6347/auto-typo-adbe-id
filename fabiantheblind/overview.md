@@ -407,13 +407,13 @@
 --------------  
   
 ###[JSONString.json](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/fabiantheblind/JSONString.json)  
-<<<<<<< HEAD
-[{"anchors":[
-=======
+
     [{"anchors":[
->>>>>>> c18442debf37229beecddfc28a0f1475c1fe88c1
       [ 30,60],
       [ 70,60],
+      [ 60,40],
+      [ 90,60],
+      [ 50,60],
   
 --------------  
   
