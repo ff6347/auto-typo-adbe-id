@@ -1,4 +1,4 @@
-![MY AVATAR](avatar_anita.png)
+![MY AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/avatar_anita.png)
 
 Howdy
 ---
@@ -6,7 +6,9 @@ my name is [Anita](https://gist.github.com/AnitaMei).
 
 myRPG.jsx  
 ---
-![TEASER IMAGE](teaser_1_anita.png)  
+![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/teaser_1_anita.png)  
+![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/teaser_2_anita.png)  
+
 This is the first start of a script for a simple computer role-playing game.
 The users task is it to find its way from home to the university campus.
 While traveling the user has to answer questions which are effecting its destiny.
