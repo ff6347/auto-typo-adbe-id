@@ -14,7 +14,7 @@ The users task is it to find its way from home to the university campus.
 While traveling the user has to answer questions which are effecting its destiny.
 Going through the questions step by step the InDesign document builds up a text frame describing the user's journey.  An info-graphic on the bottom of the document will show the user's journey.  
 After completing all quest the user can print the file as an A3 document.  
-[https://gist.github.com/64dcb8b7d13a04b56e0a]( https://gist.github.com/64dcb8b7d13a04b56e0a/)  
+[https://gist.github.com/3874630]( https://gist.github.com/3874630)  
   
 
 License  
