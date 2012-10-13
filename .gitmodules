@@ -1,0 +1,6 @@
+[submodule "natael/swissd"]
+	path = natael/swissd
+	url = git://github.com/natael/swissd.git
+[submodule "Flave/auto-typo-adobe-id"]
+	path = Flave/auto-typo-adobe-id
+	url = git://github.com/Flave/auto-typo-adobe-id.git
