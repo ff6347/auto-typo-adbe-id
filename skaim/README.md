@@ -1,5 +1,3 @@
-#Hello
-=======
 ![THIS IS MY AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/skaim/avatar_500x500px.png)
 
 
