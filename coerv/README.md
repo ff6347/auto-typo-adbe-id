@@ -1,7 +1,3 @@
-
-#Hello
-=======
-
 ![Avatar Image](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/coerv/avatar.png)
 
 Hello,
