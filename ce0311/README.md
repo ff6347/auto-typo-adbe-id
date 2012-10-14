@@ -6,7 +6,7 @@ A small script to generate radial patterns from single letters or words.
 
 
 
-[typoflower_01.jsx](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/ce0311/typoflower_01.jsx)
+[typoflower_01.jsx](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/ce0311/typoflower_01.jsx)
 ---
  
 Just edit the variables at the top of the script to change its behaviour.
