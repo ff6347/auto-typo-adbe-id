@@ -33,11 +33,11 @@ This script also takes two datafiles. It uses the punctuation data to create a s
 This Script combines the Simple_Barchart and the Punctuation. It places the Punctuation below the Barchart.  
 [Simple_Barchart_plus](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Simple_Barchart_plus.jsx)  
 
-###Punctuation_Barchart_Plus.jsx
+###Punctuation_Barchart_plus.jsx
 
-[TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Punctuation_Barchart_Plus.png)
+![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Punctuation_Barchart_plus.png)
 This Scipt basically does the same as the Simple_Barchart_Plus.jsx. In addition it  places the Punctuation of each Phrase right behind its bar.  
-[Punctuation_Barchart_Plus](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Punctuation_Barchart_Plus.jsx)  
+[Punctuation_Barcharts_plus](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Punctuation_Barcharts_plus.jsx)  
 
 ###misc  
  
