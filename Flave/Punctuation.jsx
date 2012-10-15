@@ -9,6 +9,9 @@ images (2mm x 2mm) which have to be placed in the ~/Application/Indesign/Scripts
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+var script_file = File($.fileName); // get the location of the scriptfile
+var script_file_path = script_file.path; // get the path
+
 //Document Variables
 var doc = app.documents.add();
 var page = doc.pages.item(0);
@@ -25,6 +28,8 @@ function main () {
 	//include the two datafiles
 	#include "Data/1349967053319.js";
 	#include "Data/1349967089216.js";
+
+	
 
 	//Layout Variables
 	var yGrid 		= 3; //smallest 
@@ -99,15 +104,15 @@ function drawDotChart(data, side, properties, color) {
 	//get the images needed for the drawings
 	var images = {};
 	if (side == 1) {
-		images.dots = (File("../Scripts Panel/dot_bright.eps"));
-		images.commas = (File("../Scripts Panel/comma_bright.eps"));
-		images.quotes = (File("../Scripts Panel/quote_bright.eps"));
-		images.colons = (File("../Scripts Panel/colon_bright.eps"));
+		images.dots = (File(script_file_path + "/Data/dot_bright.eps"));
+		images.commas = (File(script_file_path + "/Data/comma_bright.eps"));
+		images.quotes = (File(script_file_path + "/Data/quote_bright.eps"));
+		images.colons = (File(script_file_path + "/Data/colon_bright.eps"));
 	} else {
-		images.dots = (File("../Scripts Panel/dot_dark.eps"));
-		images.commas = (File("../Scripts Panel/comma_dark.eps"));
-		images.quotes = (File("../Scripts Panel/quote_dark.eps"));
-		images.colons = (File("../Scripts Panel/colon_dark.eps"));
+		images.dots = (File(script_file_path + "/Data/dot_dark.eps"));
+		images.commas = (File(script_file_path + "/Data/comma_dark.eps"));
+		images.quotes = (File(script_file_path + "/Data/quote_dark.eps"));
+		images.colons = (File(script_file_path + "/Data/colon_dark.eps"));
 	}
 
 

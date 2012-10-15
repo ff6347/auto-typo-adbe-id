@@ -6,7 +6,8 @@ Punctuation of each Phrase right behind its bar.
 
 */
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+var script_file = File($.fileName); // get the location of the scriptfile
+var script_file_path = script_file.path; // get the path
 
 //Document Variables
 var doc = app.documents.add();
@@ -159,15 +160,15 @@ function drawDots (data, side, properties) {
 	var images = [];
 	
 	if(side == 1) {
-		images.push(File("../Scripts Panel/dot_bright.eps"));
-		images.push(File("../Scripts Panel/comma_bright.eps"));
-		images.push(File("../Scripts Panel/quote_bright.eps"));
-		images.push(File("../Scripts Panel/colon_bright.eps"));
+		images.push(File(script_file_path + "/Data/dot_bright.eps"));
+		images.push(File(script_file_path + "/Data/comma_bright.eps"));
+		images.push(File(script_file_path + "/Data/quote_bright.eps"));
+		images.push(File(script_file_path + "/Data/colon_bright.eps"));
 	} else {
-		images.push(File("../Scripts Panel/dot_dark.eps"));
-		images.push(File("../Scripts Panel/comma_dark.eps"));
-		images.push(File("../Scripts Panel/quote_dark.eps"));
-		images.push(File("../Scripts Panel/colon_dark.eps"));
+		images.push(File(script_file_path + "/Data/dot_dark.eps"));
+		images.push(File(script_file_path + "/Data/comma_dark.eps"));
+		images.push(File(script_file_path + "/Data/quote_dark.eps"));
+		images.push(File(script_file_path + "/Data/colon_dark.eps"));
 	}
 
 	//loop through the sentences	
@@ -229,15 +230,15 @@ function drawDotChart(data, side, properties, color) {
 	//get the images needed for the drawings
 	var images = {};
 	if (side == 1) {
-		images.dots = (File("../Scripts Panel/dot_bright.eps"));
-		images.commas = (File("../Scripts Panel/comma_bright.eps"));
-		images.quotes = (File("../Scripts Panel/quote_bright.eps"));
-		images.colons = (File("../Scripts Panel/colon_bright.eps"));
+		images.dots = (File(script_file_path + "/Data/dot_bright.eps"));
+		images.commas = (File(script_file_path + "/Data/comma_bright.eps"));
+		images.quotes = (File(script_file_path + "/Data/quote_bright.eps"));
+		images.colons = (File(script_file_path + "/Data/colon_bright.eps"));
 	} else {
-		images.dots = (File("../Scripts Panel/dot_dark.eps"));
-		images.commas = (File("../Scripts Panel/comma_dark.eps"));
-		images.quotes = (File("../Scripts Panel/quote_dark.eps"));
-		images.colons = (File("../Scripts Panel/colon_dark.eps"));
+		images.dots = (File(script_file_path + "/Data/dot_dark.eps"));
+		images.commas = (File(script_file_path + "/Data/comma_dark.eps"));
+		images.quotes = (File(script_file_path + "/Data/quote_dark.eps"));
+		images.colons = (File(script_file_path + "/Data/colon_dark.eps"));
 	}
 
 
