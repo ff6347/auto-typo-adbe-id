@@ -1,4 +1,4 @@
-![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/avatar_500x500px.png)
+![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/flave.png)
 #Hello  
 my name is Flavio / [Flave](https://github.com/flave). I’m an Interface Design Student at FH Potsdam.  
   

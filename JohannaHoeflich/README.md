@@ -1,4 +1,4 @@
-![Avatar](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/avatar_johanna.png)  
+![Avatar](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/johannahoeflich.png)  
 Hello
 My name is Johanna. I just started the master program at the Design Faculty of Potsdam.  
 

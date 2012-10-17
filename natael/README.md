@@ -1,4 +1,4 @@
-![AVATAR IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/avatar.png)
+![AVATAR IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/natael.png)
 
 Hello
 ---

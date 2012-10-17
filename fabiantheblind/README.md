@@ -1,4 +1,4 @@
-![Avatar](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/fabiantheblind/avatar_ftb.png)  
+![Avatar](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/fabiantheblind/fabiantheblind.png)  
 #Hello  
 my name is fabiantheblind a.k.a. Fabian Morón Zirfas. I am a freelance designer, motion grapher and coder living in Berlin who occasionally does stuff that involves things.
 

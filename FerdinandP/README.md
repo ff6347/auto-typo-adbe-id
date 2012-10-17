@@ -1,4 +1,4 @@
-![Avatar Image](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/avatar_ferdinand_pechmann.png)
+![Avatar Image](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/ferdinandp.png)
 #Hello,  
 my name is Ferdinand. I'm an Design-Student at University of applied science in Potsdam.
 

@@ -1,4 +1,4 @@
-![Avatar Image](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/coerv/avatar.png)
+![Avatar Image](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/coerv/coerv.png)
 
 Hello,
 =====
