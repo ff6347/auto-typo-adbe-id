@@ -11,6 +11,7 @@ coerv/*.indd
 fabiantheblind/.DS_Store
 felixharle/.DS_Store
 FerdinandP/.DS_Store
+!FerdinandP/*.pdf
 Artikel_Berliner_Morgenpost.txt
 Artikel_Bild_am_Sonntag.txt
 JohannaHoeflich/.DS_Store
