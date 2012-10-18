@@ -1,19 +1,98 @@
-// @import "bootstrap/bootstrap.less";
+    /***********************
+    Main CSS based on twitter 
+    bootstrap build with .less
+    by fabiantheblind
+    Copyright © 2012
+
+    ************************/
+
+ @import "bootstrap.less";
+ // @import "fonts.less";
+// @import "lightbox.less";
+
+
+// overwrite bs less variables
+@bodyBackground:        @white;
+@baseLineHeight:        1.5em;
+@baseFontSize:          1.2em;
+
+@serifFontFamily:       "calluna", Georgia, serif;
+@sansFontFamily:        @serifFontFamily;
+@baseFontFamily:        @serifFontFamily;
+@altFontFamily:         @serifFontFamily;
+
+@headingsFontFamily:    "calluna",Georgia, serif;
+@subpageh1          :   3.0em;
+// mixins
+
+.serifbold(){
+font-family: "calluna","Georgia",serif;
+font-style: normal;
+font-weight: 900;
+
+    
+}
+
+.serifregular(){
+
+font-family: "calluna","Georgia",serif;
+font-style: normal;
+font-weight: 400;
+}
+// overwrite bs classes
 
 body {
-    font-family: Georgia, serif;
-    font-size: 1.2em;
-     max-width:70%;
-     margin: auto;
+    padding-top: 0em;
+    .serifregular;
+
+    font-size: @baseFontSize;
 }
 
 
-img{
-    max-width:100%;
-    // text-align: center;
-        display: block;
+img#forkme{
+position: absolute;
+top: 0;
+right: 0;
+border: 0;
+z-index: 1111;
+}
+.hero-unit{
+    padding-top: 0px;
+
+    background-color: @bodyBackground;
+    h1{
+        .serifbold;
+        // padding-bottom: 1.5em;
+    }
+    p{
+        font-size: @baseFontSize;
+        line-height: @baseLineHeight;
+    }
+    img{
+        width :100%;
+    }
+}
+
+
+
+pre,code{
+
+    font-size: 1.0em;
+}
+
+/* SUBPAGES*/
+
+.subpage{
+    h1{
     margin-left: auto;
     margin-right: auto;
-    padding-top: 2em;
-    padding-bottom: 2em;
+    text-align: center;
+    font-size: @subpageh1;
+    img#avatar{
+    width :@subpageh1;
+    height :@subpageh1;
+
+        }
+    }
+
 }
