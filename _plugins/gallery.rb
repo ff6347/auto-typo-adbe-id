@@ -62,6 +62,28 @@ module Jekyll
 			output
 		end
 		
+		def gallerycontributers(input)
+			output = ''
+			for i in Dir.glob(input)
+				nm = File.basename(i, '.*')
+				output << "<a href=\"#{nm}.html\" class=\"contribslink\"><div class=\"span2\" id=\"contribs\">
+				<img src=\"#{i}\" class=\"avatar\">
+      			</div></a>"
+      		end
+      		output
+		end
+
+		def gallerymini(input)
+			output = ''
+			for i in Dir.glob(input)
+				nm = File.basename(i, '.*')
+				output << "<a href=\"#{nm}.html\" class=\"\"><div class=\"span1\" id=\"mingal\">
+				<img src=\"#{i}\" class=\"avatar\">
+      			</div></a>"
+      		end
+      		output
+		end
+
 		def lightboxgallery(path, rel, pathreplace, id, span)
 			output = ''
 			for s in Dir.glob(path)

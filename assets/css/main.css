@@ -4847,6 +4847,9 @@ body {
   font-weight: 400;
   font-size: 1.2em;
 }
+h1.fit {
+  display: block;
+}
 img#forkme {
   position: absolute;
   top: 0;
@@ -4854,8 +4857,12 @@ img#forkme {
   border: 0;
   z-index: 1111;
 }
+img.avatar {
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
 .hero-unit {
-  padding-top: 0px;
+  padding: 0px;
   background-color: #ffffff;
 }
 .hero-unit h1 {
@@ -4870,18 +4877,116 @@ img#forkme {
 .hero-unit img {
   width: 100%;
 }
+.depth {
+  display: block;
+  padding: 50px;
+  color: black;
+  font: bold 7em Arial, sans-serif;
+  position: relative;
+}
+.depth:before,
+.depth:after {
+  content: attr(title);
+  padding: 50px;
+  color: rgba(255, 255, 255, 0.1);
+  position: absolute;
+}
+.depth:before {
+  top: 1px;
+  left: 1px;
+}
+.depth:after {
+  top: 2px;
+  left: 2px;
+}
+#contributers #contribs {
+  margin: 0.5em;
+}
+#contributers a.contribslink img {
+  filter: alpha(opacity=75);
+  -moz-opacity: 0.75;
+  -khtml-opacity: 0.75;
+  opacity: 0.75;
+}
+#contributers a.contribslink:hover img {
+  filter: alpha(opacity=100);
+  -moz-opacity: 1;
+  -khtml-opacity: 1;
+  opacity: 1;
+}
+#sublinks {
+  border-top: 1px solid rgba(149, 149, 149, 0.73);
+}
+#sublinks #mingal {
+  margin-top: 5px;
+  max-width: 32px;
+  max-height: 32px;
+}
+#sublinks #mingal img {
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+#footer {
+  border-top: 1px solid rgba(149, 149, 149, 0.73);
+  font-size: 1.2em;
+}
+/* SUBPAGES*/
+.subpage #back {
+  margin-top: 1.5em;
+  font-size: 5em;
+}
+.subpage img#avatar {
+  max-width: 128px;
+  max-height: 128px;
+}
 pre,
 code {
   font-size: 1.0em;
+  white-space: pre-wrap;
+  /* css-3 */
+
+  white-space: -moz-pre-wrap !important;
+  /* Mozilla, since 1999 */
+
+  white-space: -pre-wrap;
+  /* Opera 4-6 */
+
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+
+  word-wrap: break-word;
+  /* Internet Explorer 5.5+ */
+
 }
-/* SUBPAGES*/
-.subpage h1 {
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  font-size: 3em;
+/*****************************************************************************
+/* 
+/* MEDIA QUERIES
+**********************************************************/
+/* Landscape phones and down*/
+@media (max-width: 480px) {
+  body {
+    font-size: 1em;
+    line-height: 1.4em;
+  }
 }
-.subpage h1 img#avatar {
-  width: 3em;
-  height: 3em;
+/* Landscape phone to portrait tablet*/
+@media (max-width: 767px) {
+  body {
+    font-size: 1em;
+    line-height: 1.4em;
+  }
+}
+/*Portrait tablet to landscape and desktop*/
+@media (min-width: 768px) and (max-width: 979px) {
+  
+}
+/* Large desktop*/
+@media (min-width: 980px) and (max-width: 1199px) {
+  
+}
+@media (min-width: 1200px) {
+  
+}
+@media (min-width: 1280px) {
+  
 }

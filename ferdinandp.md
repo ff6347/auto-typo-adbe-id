@@ -30,14 +30,16 @@ It works with and without facing pages.
 ###misc  
 You can also clone the project with [Git](http://git-scm.com) by running:  
 
-    #CMYK colors  
-    git clone git://gist.github.com/3877719.git  
+{% highlight sh %}
+#CMYK colors  
+git clone git://gist.github.com/3877719.git  
+{% endhighlight %}
 
 <br>  
-
-    #Pagenumber_ color_gradation  
-    git clone git://gist.github.com/3877709.git  
-
+{% highlight sh %}
+#Pagenumber_ color_gradation  
+git clone git://gist.github.com/3877709.git  
+{% endhighlight %}
 
 ##License  
 

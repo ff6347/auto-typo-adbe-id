@@ -20,7 +20,9 @@ After completing all quest the user can print the file as an A3 document.
 
 You can also clone the project with [Git](http://git-scm.com) by running:  
     
-    git clone git://gist.github.com/3874630.git gist-3874630
+{% highlight sh %}
+git clone git://gist.github.com/3874630.git gist-3874630
+{% endhighlight %}
 
 ###License  
 
