@@ -2,7 +2,7 @@
 layout: singlepage
 title: Johanna Hoeflich
 ---
-#![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/johanahoeflich.png) Hello
+#![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/johannahoeflich.png) Hello
 My name is Johanna. I just started the master program at the Design Faculty of Potsdam.  
 
 ###Projekt_TEXT.jsx  
