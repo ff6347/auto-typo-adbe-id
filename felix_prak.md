@@ -10,9 +10,10 @@ We set as our goal to create a script that uses highlight data as input (differe
 Launch the script below to see our result or follow these steps to build your own visualization:  
 
 - Gather some markdown documents containing your text and the highlights (represented by bold text)  
-- Convert them into HTML using the following tool by Daring Fireball http://goo.gl/6rUzZ
+- Convert them into HTML using [this tool by Daring Fireball](http://daringfireball.net/projects/markdown/dingus)
 (just paste the markdown content of your documents underneath each other in the same box and click "Convert")  
 - Copy the HTML output and paste it into our custom built tool below to extract the highlight data for use in InDesign  
+
 Example text:  
 
 {% highlight html %}
@@ -38,7 +39,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     font-family: monospace;
     background-color: rgba(193,213,250,0.8);
     padding: 5px 10px 6px 10px;
-    margin: 14px 0 66px 0;
+    margin: 14px 0 10px 0;
+    list-style: none;
 }
 #toarray_textarea {
     width: 100%;
@@ -46,11 +48,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     font-size: 16px;
     font-family: "Helvetica Neue", sans-serif;
     color: #333;
-    margin: 40px 0 5px 0;
+    margin: 20px 0 5px 0;
     padding: 1.5%;
 }
 #toarray_button {
-    margin: 0;
+    margin: 0 0 10px 0;
 }
 #toarray_button span {
     padding: 0 4px 0 4px;
@@ -59,7 +61,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     display: none;
 }
 </style>
-    <textarea id="toarray_textarea" rows="14" cols="80" placeholder="Paste HTML here; e.g. <p>I would begin the analysis by saying that a <strong>commodity has value</strong> and a gift does not.</p>"></textarea>
+    <textarea id="toarray_textarea" rows="14" cols="80" placeholder="Paste HTML here"></textarea>
     <button id="toarray_button"><span>Extract Highlight Data</span></button>
     <div id="mdcontent"></div>
     <ul id="toarray_ul" >
@@ -85,14 +87,11 @@ $("#toarray_button").click(function() {
 });
 </script>
 
-Include widget? [https://gist.github.com/3923596](https://gist.github.com/3923596)  
 You can also clone the widget with [Git](http://git-scm.com) by running:  
 
 {% highlight sh %}
 git clone git://gist.github.com/3923596.git gist-3923596
-{% endhighlight %}
-Otherwise please link to [http://www.felixharle.com/extract/](http://www.felixharle.com/extract/)  
-
+{% endhighlight %}  
 
 - Copy the output of our tool and paste it into the marked area in highlight.jsx (make sure to replace the text we used with the one you want to use as well)
 - Save and run to get the visualization
@@ -100,7 +99,8 @@ Otherwise please link to [http://www.felixharle.com/extract/](http://www.felixha
 ###highlight.jsx
 
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight_teaser_fp.png)
-Basically, the script creates a text frame for each highlight and sets it's opacity to a low level. All these text frames are then stacked over each other, which results in adjoining transparencies in places, that were highlighted by more than one person.
+
+Basically, the script creates a text frame for each highlight and sets it's opacity to a low level. All these text frames are then stacked over each other, which results in adjoining transparencies in places that were highlighted by more than one person.
 [link to your script](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight.jsx)
 
 ###Note  
