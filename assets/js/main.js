@@ -24,7 +24,7 @@ function add_avatar_id(){
 
     $('img[alt=AVATAR]').attr('id', 'avatar');
 
-    $("img[alt='AVATAR']").addClass("avatar");
+    $("img[alt='AVATAR']").addClass("top-avatar");
 }
 
 function add_h1_fit(){

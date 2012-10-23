@@ -77,7 +77,7 @@ module Jekyll
 			output = ''
 			for i in Dir.glob(input)
 				nm = File.basename(i, '.*')
-				output << "<a href=\"#{nm}.html\" class=\"\"><div class=\"span1\" id=\"mingal\">
+				output << "<a href=\"#{nm}.html\" class=\"contribslink\"><div class=\"contrib_span1\" id=\"mingal\">
 				<img src=\"#{i}\" class=\"avatar\">
       			</div></a>"
       		end

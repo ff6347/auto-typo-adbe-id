@@ -13,21 +13,9 @@ Launch the script below to see our result or follow these steps to build your ow
 - Convert them into HTML using [this tool by Daring Fireball](http://daringfireball.net/projects/markdown/dingus)
 (just paste the markdown content of your documents underneath each other in the same box and click "Convert")  
 - Copy the HTML output and paste it into our custom built tool below to extract the highlight data for use in InDesign  
-
-Example text:  
-
-{% highlight html %}
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna <strong>aliqua</strong>. Ut enim ad minim veniam,
-quis nostrud <strong>exercitation</strong> ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute <strong>irure</strong> dolor in <strong>reprehenderit</strong> in voluptate velit esse
-cillum dolore eu fugiat nulla <strong>pariatur</strong>. Excepteur sint <strong>occaecat</strong> cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-{% endhighlight %}
-
-<!-- target area in <body></body> -->
-<div id="toarray_wrap"> <style type="text/css">
+  
+<div id="toarray_wrap">
+    <style type="text/css">
     #toarray_wrap {
     max-width: 620px;
     margin: 0 auto;
@@ -61,13 +49,17 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     display: none;
 }
 </style>
-    <textarea id="toarray_textarea" rows="14" cols="80" placeholder="Paste HTML here"></textarea>
+    <textarea id="toarray_textarea" rows="14" cols="80" placeholder="Paste HTML here">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna <strong>aliqua</strong>. Ut enim ad minim veniam, quis nostrud <strong>exercitation</strong> ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute <strong>irure</strong> dolor in <strong>reprehenderit</strong> in voluptate velit esse cillum dolore eu fugiat nulla <strong>pariatur</strong>. Excepteur sint <strong>occaecat</strong> cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </textarea>
     <button id="toarray_button"><span>Extract Highlight Data</span></button>
     <div id="mdcontent"></div>
     <ul id="toarray_ul" >
         <li>var highlight_data =  [];</li>
     </ul>
 </div>
+
 <script type="text/javascript">
 $("#toarray_textarea").keyup(function () {
     var value = $(this).val();
@@ -96,12 +88,12 @@ git clone git://gist.github.com/3923596.git gist-3923596
 - Copy the output of our tool and paste it into the marked area in highlight.jsx (make sure to replace the text we used with the one you want to use as well)
 - Save and run to get the visualization
 
-###highlight.jsx
+###[highlight](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight.jsx)  
 
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight_teaser_fp.png)
 
 Basically, the script creates a text frame for each highlight and sets it's opacity to a low level. All these text frames are then stacked over each other, which results in adjoining transparencies in places that were highlighted by more than one person.
-[link to your script](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight.jsx)
+[highlight.jsx](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight.jsx)
 
 ###Note  
  

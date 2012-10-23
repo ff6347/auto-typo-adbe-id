@@ -7,28 +7,33 @@ title: natael
 my name is julian ([natael](https://github.com/natael))
 and this is my project for "typography and automation".
 
-###swissd.jsx
+###[swissd](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/swissd.jsx)  
 
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/teaser.png)
+with swissd.jsx you can generate a width-fixed typo.  
+all you have to do, is to customize the config-object in the script and run it. several customizations are possible:  
 
-with swissd.jsx you can generate a width-fixed typo.
++ add a shadow  
++ add shear  
++ add a rotation  
++ improve the contrast of the biggest words  
++ add a vignette (gradient with transparency)  
++ add a perspective (3D)  
 
-all you have to do, is to customize the config-object
-in the script and run it.
+see the original repo here [https://github.com/natael/swissd](https://github.com/natael/swissd)  
 
-several customizations are possible:
-+ add a shadow
-+ add shear
-+ add a rotation
-+ improve the contrast of the biggest words
-+ add a vignette (gradient with transparency)
-+ add a perspective (3D)
-
-[https://github.com/natael/swissd](https://github.com/natael/swissd)
 
 ###misc
 
 have fun <3
+
+###misc  
+You can also clone the project with [Git](http://git-scm.com) by running:  
+
+{% highlight sh %}
+#CMYK colors  
+git clone git://github.com/natael/swissd.git  
+{% endhighlight %}
 
 ###License
 
