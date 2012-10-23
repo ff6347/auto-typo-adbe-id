@@ -5,7 +5,7 @@ title: AnitaMei
 #![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/anitamei.png) Howdy
 my name is [Anita](https://gist.github.com/AnitaMei).
 
-###myRPG.jsx  
+###[myRPG](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/myRPG.jsx)  
 
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/teaser_1_anita.png)  
 {% comment %}

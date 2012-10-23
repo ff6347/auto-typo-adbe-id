@@ -25,9 +25,8 @@ see the original repo here [https://github.com/natael/swissd](https://github.com
 
 ###misc
 
-have fun <3
+have fun <3  
 
-###misc  
 You can also clone the project with [Git](http://git-scm.com) by running:  
 
 {% highlight sh %}

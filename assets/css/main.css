@@ -4908,6 +4908,15 @@ img.top-avatar {
   top: 2px;
   left: 2px;
 }
+.btn-large {
+  font-size: 1em;
+}
+p#download {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  font-size: 1em;
+  text-align: center;
+}
 #sublinks {
   margin-top: 3em;
   border-top: 1px solid rgba(149, 149, 149, 0.73);
