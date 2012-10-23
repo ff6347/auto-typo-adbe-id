@@ -762,11 +762,16 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   
 
   
+###misc
+Oh, I forgot to say. I was the one giving the course.  
 
+{% comment %}
 ###some gists  
 - [catch an error](https://gist.github.com/2654624) `try{}catch(e){}`  
 - [What is a](https://gist.github.com/2654512) `#targetengine "my_session"`  
 - [greatPower](https://gist.github.com/2651815) `app.documents.everyItem().close(SaveOptions.NO);`  
+{% endcomment %}
+
 
 ##License  
 
