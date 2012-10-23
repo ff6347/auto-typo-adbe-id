@@ -4847,18 +4847,18 @@ body {
   font-weight: 400;
   font-size: 1.2em;
 }
-h1.fit {
-  display: block;
-}
-#indexfit {
-  margin-top: 0px;
-}
 img#forkme {
   position: absolute;
   top: 0;
   right: 0;
   border: 0;
   z-index: 1111;
+}
+h1.fit {
+  display: block;
+}
+#indexfit {
+  margin-top: 0px;
 }
 /*
 Overwrite bootstrap less
@@ -4942,9 +4942,6 @@ img.top-avatar {
   max-width: 48px;
   max-height: 48px;
 }
-.contributers #mingal {
-  margin-top: 3.3333333333333335px;
-}
 .contributers a.contribslink img {
   filter: alpha(opacity=75);
   -moz-opacity: 0.75;
@@ -4956,4 +4953,117 @@ img.top-avatar {
   -moz-opacity: 1;
   -khtml-opacity: 1;
   opacity: 1;
+}
+#footer {
+  border-top: 1px solid rgba(149, 149, 149, 0.73);
+  font-size: 1.2em;
+}
+/* SUBPAGES*/
+.subpage p img#teaser {
+  margin-bottom: 1em;
+}
+.subpage h2,
+.subpage h3,
+.subpage h4 {
+  padding-bottom: 0px !important;
+  margin-bottom: 0.25em !important;
+}
+pre {
+  white-space: pre-wrap !important;
+  /* CSS3 browsers  */
+
+  white-space: -moz-pre-wrap !important;
+  /* 1999+ Mozilla  */
+
+  white-space: -pre-wrap !important;
+  /* Opera 4 thru 6 */
+
+  white-space: -o-pre-wrap;
+  /* Opera 7 and up */
+
+  word-wrap: break-word !important;
+  /* IE 5.5+ and up */
+
+  /* overflow-x: auto; */
+  /* Firefox 2 only */
+
+  /* width: 99%; */
+  /* only if needed */
+
+}
+code {
+  font-size: 1.0em;
+  white-space: pre-wrap !important;
+  /* css-3 */
+
+  white-space: -moz-pre-wrap !important;
+  /* Mozilla, since 1999 */
+
+  white-space: -pre-wrap !important;
+  /* Opera 4-6 */
+
+  white-space: -o-pre-wrap !important;
+  /* Opera 7 */
+
+  word-wrap: break-word !important;
+  /* Internet Explorer 5.5+ */
+
+}
+/*****************************************************************************
+/* 
+/* MEDIA QUERIES
+**********************************************************/
+/* Landscape phones and down*/
+@media (max-width: 480px) {
+  p body {
+    font-size: 1em;
+    line-height: 1.4em;
+  }
+  img#forkme {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    z-index: 1111;
+  }
+}
+/* Landscape phone to portrait tablet*/
+@media (max-width: 767px) {
+  p body {
+    font-size: 1em;
+    line-height: 1.4em;
+  }
+  img#forkme {
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    z-index: 1111;
+  }
+}
+/*Portrait tablet to landscape and desktop*/
+@media (min-width: 768px) and (max-width: 979px) {
+  img#forkme {
+    width: 96px;
+    height: 96px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    z-index: 1111;
+  }
+}
+/* Large desktop*/
+@media (min-width: 980px) and (max-width: 1199px) {
+  
+}
+@media (min-width: 1200px) {
+  
+}
+@media (min-width: 1280px) {
+  
 }

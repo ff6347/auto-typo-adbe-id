@@ -14,7 +14,6 @@ The script will than create up to 306 colorsheeds with 6 colors.
 
 
 ###[Pagenumber_color_gradation](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/pagenumber_color_gradation.jsx)    
-
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/pagenumber_color_gradation_teaser.png)   
 
 The Pagenumber_ color_gradation.jsx script creates pagesnumbers with a color gradation between frist and last number. It uses the aktiv Indesign document.  
