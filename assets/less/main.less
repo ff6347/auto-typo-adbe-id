@@ -25,7 +25,11 @@
 
 @headingsFontFamily:    "calluna",Georgia, serif;
 @subpageh1          :   128px;
+
+@contrib_margin:           5px;
 // mixins
+
+
 
 .serifbold(){
 font-family: "calluna","Georgia",serif;
@@ -64,6 +68,13 @@ top: 0;
 right: 0;
 border: 0;
 z-index: 1111;
+}
+
+/*
+Overwrite bootstrap less
+*/
+.carousel .item > img {
+  line-height: 0;
 }
 
 img.avatar{
@@ -112,13 +123,32 @@ img.avatar{
 
 #contributers{
 
-       #contribs{
-        margin:0.5em;
-        }
+     margin-left: auto ;
+  margin-right: auto ;
+
+       // #contribs{
+       //  
+       //  }
+
+.contrib_span2{
+    display:inline-block;
+    min-width: 12%;
+    max-width: 17%;
+    // width:96px;
+    margin-left: @contrib_margin;
+    margin-right: @contrib_margin ;
+    margin:@contrib_margin;
+//     // Table columns
+ //  float: none; // undo default grid column styles
+ // width: ((@contrib_gridColumnWidth) * @contrib_columnSpan) + (@contrib_gridGutterWidth * (@contrib_columnSpan - 1)) - 16; // 16 is total padding on left and right of table cells
+ //   margin-left: 0; // undo default grid column styles
+}
+}
 
     img{
  
     }
+
 a.contribslink img{
 
     filter:alpha(opacity=75);
@@ -136,6 +166,7 @@ a.contribslink:hover img{
 
 
 }
+
 
 #sublinks{
     border-top: 1px solid rgba(149, 149, 149, 0.73);
