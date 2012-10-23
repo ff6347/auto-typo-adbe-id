@@ -31,8 +31,7 @@ have fun <3
 You can also clone the project with [Git](http://git-scm.com) by running:  
 
 {% highlight sh %}
-#CMYK colors  
-git clone git://github.com/natael/swissd.git  
+ git clone git://github.com/natael/swissd.git  
 {% endhighlight %}
 
 ###License
