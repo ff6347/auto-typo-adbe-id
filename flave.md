@@ -9,12 +9,12 @@ my name is Flavio / [Flave](https://github.com/flave). I’m an Interface Design
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Get_Text_Data.png)
 This Script takes a Textfile and creates a Datafile from its content. The Datafile contains the Number of characters, Number of different punctuation marks (Dots, commas, quotes, colons, questionmarks, exclamationmarks and ellipsises) and an array of Wordlengths for each Sentence. Sadly the Datafile is not an actual JSON file. The toSource() function adds strange parentheseses around each Object. So for further use you will have to remove these parentheseses manually - or with the «find and replace» function of a texteditor. Also if you want to use the Datafile with one of my other Scripts you'll have to rename the Dataobject in the Datafile to data_one or data_two.  
 
-###[Simple_Barchart](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Simple_Barchart.jsx)  
+###[Simple_Barcharts](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Simple_Barcharts.jsx)  
 
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Simple_Barchart.png)
 This script takes two datafiles (created with the Get_Text_Data.jsx script and editedmas described). They are included with an #include. If you generate your own datafiles you’ll have to change the filenames at the #include tag to your own files name.  From its data it creates two facing horizontal barcharts. Each Bar represents the number of characters of one sentence.  
 
-###[Words_Barchart](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Words_Barchart.jsx)  
+###[Words_Barcharts](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Word_Barcharts.jsx)  
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Word_Barchart.png)
 This script basicslly does the samething as the Simple_Barchart.jsx script. In addition the bars consist of stacked bars each representing the length of one word in the sentence.  
 
@@ -23,7 +23,7 @@ This script basicslly does the samething as the Simple_Barchart.jsx script. In a
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Punctuation.png)
 This script also takes two datafiles. It uses the punctuation data to create a sorted collection of all the dots, commas, quotaion marks, and colons. The graphics for the punctuation are small images (2mm x 2mm) which have to be placed in the ~/Application/Indesign/Scripts/Script Panel/*  folder.  
   
-###[Simple_Barchart_plus](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Simple_Barchart_plus.jsx)    
+###[Simple_Barcharts_plus](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Simple_Barcharts_plus.jsx)  
 ![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/Simple_Barchart_plus.png)
 This Script combines the Simple_Barchart and the Punctuation. It places the Punctuation below the Barchart.  
 
