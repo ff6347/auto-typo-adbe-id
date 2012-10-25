@@ -134,7 +134,7 @@ textarea {
   clear: both;
 }
 .hide-text {
-  font: 0/0 a;
+  font: a;
   color: transparent;
   text-shadow: none;
   background-color: transparent;
@@ -4964,7 +4964,8 @@ p#download {
 }
 #footer {
   border-top: 1px solid rgba(149, 149, 149, 0.73);
-  font-size: 1.2em;
+  font-size: 0.9em;
+  text-align: center;
 }
 /* SUBPAGES*/
 .subpage p img#teaser {
