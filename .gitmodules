@@ -4,3 +4,6 @@
 [submodule "Flave/auto-typo-adobe-id"]
 	path = Flave/auto-typo-adobe-id
 	url = git://github.com/Flave/auto-typo-adobe-id.git
+[submodule "schlompf/layout-invaders"]
+	path = schlompf/layout-invaders
+	url = git://github.com/schlompf/layout-invaders.git
