@@ -24,6 +24,12 @@ I set out to create a game to be played inside InDesign. After some fiddling aro
 
 layout invaders was my first game and larger project done with javascript. The code might be a little rough around the edges, so go fork and improve it :)
 
+You can also clone the project with [Git](http://git-scm.com) by running:  
+
+{% highlight sh %}
+git clone git://github.com/schlompf/layout-invaders.git
+{% endhighlight %}
+
 ###license
 
 
