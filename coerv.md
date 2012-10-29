@@ -1,6 +1,6 @@
 ---
 layout: singlepage
-title: coerv
+title: coerv character mosaic
 ---
 #![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/coerv/coerv.png) Hello,
 

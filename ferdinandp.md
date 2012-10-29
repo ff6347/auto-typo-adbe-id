@@ -1,6 +1,6 @@
 ---
 layout: singlepage
-title: Ferdinand
+title: Ferdinand colors and page numbers
 ---
 #![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/ferdinandp.png) Hello,  
 my name is Ferdinand. I'm an Design-Student at University of applied science in Potsdam.

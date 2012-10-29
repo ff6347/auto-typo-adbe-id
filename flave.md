@@ -1,6 +1,6 @@
 ---
 layout: singlepage
-title: flave
+title: flave anatomy of text
 ---
 #![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/Flave/flave.png) Hello  
 my name is Flavio / [Flave](https://github.com/flave). I’m an Interface Design Student at FH Potsdam.  

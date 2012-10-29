@@ -1,6 +1,6 @@
 ---
 layout: singlepage
-title: felix and prak
+title: felix and prak highlight
 ---
 #![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/felix_prak.png) Hi,  
 we are Felix Harle and Prak Piakot, both design students at FH Potsdam (Felix interface- and Prak product design).  

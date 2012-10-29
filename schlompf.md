@@ -1,6 +1,6 @@
 ---
 layout: singlepage
-title: schlompf
+title: schlompf layout invaders
 ---
 
 #![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/schlompf/schlompf.png) Hi,
@@ -9,7 +9,7 @@ i'm Philipp ([schlompf](https://github.com/schlompf)), interface-design student 
 
 ###[layout_invaders.zip](https://github.com/schlompf/layout-invaders/zipball/master)
 
-![layout invacers teaser image](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/schlompf/teaser_layout_invaders.png)
+![layout invaders teaser image](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/schlompf/teaser_layout_invaders.png)
 
 I set out to create a game to be played inside InDesign. After some fiddling around, googling and reading all i could find about the capabilities of indesign scripting language, i had a functioning gameloop and working keyboard input. And about 2 weeks later, layout invaders was playable. It's a space invaders inspired game for InDesign.
 

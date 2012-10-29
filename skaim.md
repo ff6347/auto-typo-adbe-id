@@ -1,6 +1,6 @@
 ---
 layout: singlepage
-title: skaim
+title: skaim char sweeper
 ---
 
 #![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/skaim/skaim.png) Hej! 
