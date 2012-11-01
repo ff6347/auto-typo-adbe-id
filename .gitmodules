@@ -7,3 +7,9 @@
 [submodule "schlompf/layout-invaders"]
 	path = schlompf/layout-invaders
 	url = git://github.com/schlompf/layout-invaders.git
+[submodule "submodule-FontFunFriday"]
+	path = submodule-FontFunFriday
+	url = git@github.com:PDXIII/FontFunFriday.git
+[submodule "PDXIII/submodule-FontFunFriday"]
+	path = PDXIII/submodule-FontFunFriday
+	url = git@github.com:PDXIII/FontFunFriday.git
