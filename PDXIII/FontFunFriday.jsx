@@ -58,7 +58,7 @@ var black25 = doc.colors.add({
 // text styles
 var paraStyleBasicFontStyle = doc.paragraphStyles.add({
   name: "BasicFontStyle",
-  pointSize: 6
+  pointSize: 6,
   fillColor: "black25",
 });
 var paraStyleFontName = doc.paragraphStyles.add({
@@ -70,25 +70,30 @@ var paraStyleFontName = doc.paragraphStyles.add({
 var paraStyleFontMetrics = doc.paragraphStyles.add({
   name: "FontMetrics",
   basedOn: paraStyleBasicFontStyle,
+  pointSize: 6,
   justification: Justification.CENTER_JUSTIFIED
 });
 var paraStyleGlyph = doc.paragraphStyles.add({
   name: "Glyph",
   basedOn: paraStyleBasicFontStyle,
-  justification: Justification.CENTER_ALIGN
-});
-var paraStyleName = doc.paragraphStyles.add({
-  name: "GlyphName",
-  basedOn: paraStyleBasicFontStyle,
-  fillColor: "Paper",
+  pointSize: 6,
   justification: Justification.CENTER_ALIGN
 });
 var paraStyleNumber = doc.paragraphStyles.add({
   name: "GlyphNumber",
   basedOn: paraStyleBasicFontStyle,
+  pointSize: 6,
+  justification: Justification.CENTER_ALIGN
+});
+var paraStyleName = doc.paragraphStyles.add({
+  name: "GlyphName",
+  basedOn: paraStyleBasicFontStyle,
+  pointSize: 6,
+  fillColor: "Paper",
   justification: Justification.CENTER_ALIGN
 });
 
+//masterspread (Master-A) just the margins
 doc.masterSpreads.item(0).pages.item(0).marginPreferences.properties = {
   top : topMargin,
   bottom : bottomMargin,
@@ -156,16 +161,24 @@ var currentPage = doc.pages.item(0);
 main();
 
 function main(){
+  //for the cover
   var firstPage = doc.pages.item(0);
   firstPage.appliedMaster = doc.masterSpreads.item(0);
+  // dialog for unicode information display
   displayUnicodeNumber = unicodeInfo();
+
   makeMasters();
-  // return;
   makeGuideLines();
+
+  //for the back
   var lastPage = doc.pages.add();
   lastPage.appliedMaster = doc.masterSpreads.item(0);
 };
 
+/**
+ * [this function ask you how you want the unicode information to be displayed]
+ * @return {[boolean]} [returns true or false to displayUnicodeNumber]
+ */
 function unicodeInfo(){
   var w = new Window ("dialog","Unicode Info");
   w.orientation = "column";
