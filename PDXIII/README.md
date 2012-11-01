@@ -1,15 +1,16 @@
 FontFunFriday
 =============
 
-![FFF-Title][FFF-Title]
-
 ###A Adobe Indesign script for font nerds.
 
 ##Hello!
 
 ![PDXIII-Avatar][PDXIII-Avatar]
 
-I am [PDXIII](http://about.me/PDXIII) & and this is **Font Fun Friday!**
+I am [PDXIII](http://about.me/PDXIII) & and this is
+
+##Font Fun Friday!
+![FFF-Title][FFF-Title]
 
 ##What's that all about?
 When you scribble a font, you quickly come to a point where you need a base line or a guide for the x height and for the descenders …
