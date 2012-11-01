@@ -1,11 +1,15 @@
 FontFunFriday
 =============
 
+![FFF-Title][FFF-Title]
+
 ###A Adobe Indesign script for font nerds.
 
 ##Hello!
 
-I am [PDXIII](http://about.me/PDXIII)!
+![PDXIII-Avatar][PDXIII-Avatar]
+
+I am [PDXIII](http://about.me/PDXIII) & and this is **Font Fun Friday!**
 
 ##What's that all about?
 When you scribble a font, you quickly come to a point where you need a base line or a guide for the x height and for the descenders …
@@ -185,6 +189,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+[FFF-Title]: https://raw.github.com/PDXIII/FontFunFriday/master/images/FFF-Title.png
+[PDXIII-Avatar]: https://raw.github.com/PDXIII/FontFunFriday/master/images/PDXIII-Avatar.png
 [dialog]: https://raw.github.com/PDXIII/FontFunFriday/master/images/dialog.png
 [metrics]: https://raw.github.com/PDXIII/FontFunFriday/master/images/metrics.png
 [tile1]: https://raw.github.com/PDXIII/FontFunFriday/master/images/tile1.png
