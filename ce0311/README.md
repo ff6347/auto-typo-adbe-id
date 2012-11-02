@@ -1,3 +1,10 @@
+![AVATAR IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/ce0311/ce0311.png)
+
+Hi,
+---
+I'm Constantin ([ce0311](https://github.com/ce0311)), interface design student at University of Applied Science in Potsdam. The following project is the result of the course "typography and automation" by [Fabian Morón Zirfas](https://github.com/fabiantheblind).
+
+
 TypoFlower 
 =====
 A small script to generate radial patterns from single letters or words.
@@ -29,7 +36,7 @@ License
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE  
 Version 2, December 2004  
 
- Copyright (C) 2012 USER NAME <username@gmail.com>  
+ Copyright (C) 2012 ce0311 (please use github to contact me)
  Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.  
 
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE  
