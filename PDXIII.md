@@ -18,7 +18,13 @@ But where to place them? This decision takes big influence on the whole font des
 This script creates a small booklet with the metrics of 22 fonts and for each font 96 fields for 96 characters (which is a little more than a German basic keyboard layout).  
 
 ###Install this script
-Clone thie repository int your `~/Library/Preferences/Adobe InDesign/Version 7.5/en_GB/Scripts/Scripts Panel/` folder or download the zipped files and unzip them to this location.  
+Clone thie repository into your `~/Library/Preferences/Adobe InDesign/Version 7.5/en_GB/Scripts/Scripts Panel/` folder or [download the zipped](https://github.com/PDXIII/FontFunFriday/zipball/master) files and unzip them to this location.  
+
+You can clone the project with [Git](http://git-scm.com) by running:  
+
+{% highlight sh %}
+git clone git://github.com/PDXIII/FontFunFriday.git
+{% endhighlight %}
 
 ###Data Sources
 There are three files which provied data. The script depends on *GlyphList-Unicode.json* and *FontList.json*. But first let's take a look on the file where everthing started:  
