@@ -1,4 +1,4 @@
-![AVATAR IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/ce0311/ce0311.png)
+![AVATAR IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/avatar/ce0311.png)
 
 Hi,
 ---
@@ -9,9 +9,9 @@ TypoFlower
 =====
 A small script to generate radial patterns from single letters or words.
 
-![splash](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/ce0311/preview_1.png)  
+![splash](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/teaser/preview_1_ce0311.png)  
 
-
+https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/teaser/CharSweeper_teaser2.png
 
 [typoflower_01.jsx](https://github.com/fabiantheblind/auto-typo-adbe-id/blob/master/ce0311/typoflower_01.jsx)
 ---
@@ -21,9 +21,9 @@ Just edit the variables at the top of the script to change its behaviour.
 The comments should be self-explanatory - if not, yell at me!
 
 
-![splash](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/ce0311/preview_2.png) 
+![splash](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/teaser/preview_2_ce0311.png) 
 
-![splash](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/ce0311/preview_3.png) 
+![splash](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/teaser/preview_3_ce0311.png) 
 
 Misc
 ---

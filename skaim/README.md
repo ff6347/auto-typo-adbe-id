@@ -1,4 +1,4 @@
-![THIS IS MY AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/skaim/skaim.png)
+![THIS IS MY AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/avatar/skaim.png)
 
 
 Hej! 
@@ -7,9 +7,9 @@ I'm Sebastian, [skaim](https://github.com/skaim) here on github. I'm studying In
 
 CharSweeper.jsx  
 ---
-![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/skaim/CharSweeper_teaser2.png)
+![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/teaser/CharSweeper_teaser2.png)
 
-![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/skaim/CharSweeper_teaser1.png)
+![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/teaser/CharSweeper_teaser1.png)
   
 This script produces an InDesign document illustrating the single characters of the user's first name. The position of these characters (in black) within a matrix is random, as well as the surrounding characters. Direct neighbors (top, bottom, left, right) are depicted in gray. 
 The overall composition may be viewed as a reminiscence to the classic game "Minesweeper".

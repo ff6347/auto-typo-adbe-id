@@ -1,4 +1,4 @@
-![YOUR AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/felix_prak.png)
+![YOUR AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/avatar/felix_prak.png)
 Hi,  
 =====
 Highlight is a project by Felix Harle and Prak Piakot, both design students at FH Potsdam (Felix interface- and Prak product design).
@@ -20,7 +20,7 @@ Otherwise please link to http://www.felixharle.com/extract/
 
 highlight.jsx
 ---
-![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight_teaser_fp.png)
+![TEASER IMAGE](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/teaser/highlight_teaser_fp.png)
 Basically, the script creates a text frame for each highlight and sets it's opacity to a low level. All these text frames are then stacked over each other, which results in adjoining transparencies in places, that were highlighted by more than one person.
 [link to your script](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight.jsx)
 
