@@ -2,14 +2,14 @@
 layout: singlepage
 title: natael swissd
 ---
-#![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/natael.png) Hello
+#![AVATAR](assets/images/avatar/natael.png) Hello
 
 my name is julian ([natael](https://github.com/natael))
 and this is my project for "typography and automation".
 
 ###[swissd](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/swissd.jsx)  
 
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/natael/teaser.png)
+![TEASER](assets/images/teaser/a_teaser_natael.png)
 with swissd.jsx you can generate a width-fixed typo.  
 all you have to do, is to customize the config-object in the script and run it. several customizations are possible:  
 

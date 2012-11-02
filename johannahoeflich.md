@@ -2,23 +2,23 @@
 layout: singlepage
 title: Johanna Hoeflich
 ---
-#![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/johannahoeflich.png) Hello
+#![AVATAR](assets/images/avatar/johannahoeflich.png) Hello
 My name is Johanna. I just started the master program at the Design Faculty of Potsdam.  
 
-###[Projekt_TEXT](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/Projekt_TEXT.jsx)    
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/Projekt_TEXT.png)   
+###[Projekt_TEXT](assets/images/teaser/Projekt_TEXT.jsx)    
+![TEASER](assets/images/teaser/jh_Projekt_TEXT.png)   
 This Script is a template to design the first text page of a book´s chapter. At the beginning of the script you can type in the number and the name of the chapter as well as the text. You need to decide where to set the breaks of the text. The number you are typing into the line "content_num" will be the initial of the text block.  
 
 ###[Projekt_AUFMACHER_GRAFIK](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/Projekt_AUFMACHER_GRAFIK.jsx)    
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/Projekt_AUFMACHER_GRAFIK.png)   
+![TEASER](assets/images/teaser/jh_Projekt_AUFMACHER_GRAFIK.png)   
 This Script is a template to design the leading page of a book´s chapter. At the beginning of the script you can type in the number and the name of the chapter. The script will generate an image of the character you are writing into the variable "content_num". The typographic image is made by duplicating and transforming your character.  
 
 ###[Projekt_AUFMACHER_KREIS](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/Projekt_AUFMACHER_KREIS.jsx)    
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/Projekt_AUFMACHER_KREIS.png)   
+![TEASER](assets/images/teaser/jh_Projekt_AUFMACHER_KREIS.png)   
 This Script is a template to design the leading page of a book´s chapter. At the beginning of the script you can type in the number and the name of the chapter. The script will generate an image of the character you are writing into the variable "content_num". The typographic image is made by duplicating and rotating your character.  
 
 ###[Projekt_AUFMACHER_ZWIRBEL](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/Projekt_AUFMACHER_ZWIRBEL.jsx)  
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/JohannaHoeflich/Projekt_AUFMACHER_ZWIRBEL.png)  
+![TEASER](assets/images/teaser/jh_Projekt_AUFMACHER_ZWIRBEL.png)  
  This Script is a template to design the leading page of a book´s chapter. You can choose what ever lines you want. The script will generate an image of the character you are writing into the according line of the code. The typographic image is made by duplicating, moving and rotating your character.  
 
 ###misc

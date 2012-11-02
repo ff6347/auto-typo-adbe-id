@@ -2,19 +2,19 @@
 layout: singlepage
 title: Ferdinand colors and page numbers
 ---
-#![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/ferdinandp.png) Hello,  
+#![AVATAR](assets/images/avatar/ferdinandp.png) Hello,  
 my name is Ferdinand. I'm an Design-Student at University of applied science in Potsdam.
 
 ###[cmyk_colors](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/cmyk_colors.jsx)    
  
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/cmyk_colors_teaser.png) 
+![TEASER](assets/images/teaser/fp_cmyk_colors_teaser.png) 
 The cmyk_colors.jsx script creates a colour chart for CMYK colors. It can be used to print a color chart for your specific printer with a specific paper you might use freqently. The script can be adjusted by the amount steps per C, M, Y values. Every CMY value creates 6 colors with different K values. You can choose between 1 to 6 steps per C M Y value;  
 The script will than create up to 306 colorsheeds with 6 colors.  
 **the script uses the font :  DIN Next LT Pro for the CMYK value output.**  
 
 
 ###[Pagenumber_color_gradation](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/pagenumber_color_gradation.jsx)    
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/FerdinandP/pagenumber_color_gradation_teaser.png)   
+![TEASER](assets/images/teaser/fp_pagenumber_color_gradation_teaser.png)   
 
 The Pagenumber_ color_gradation.jsx script creates pagesnumbers with a color gradation between frist and last number. It uses the aktiv Indesign document.  
 It can be adjusted by  

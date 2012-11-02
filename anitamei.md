@@ -2,21 +2,21 @@
 layout: singlepage
 title: AnitaMei role playing game
 ---
-#![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/anitamei.png) Howdy
+#![AVATAR](assets/images/avatar/anitamei.png) Howdy
 my name is [Anita](https://gist.github.com/AnitaMei).
 
 ###[myRPG](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/myRPG.jsx)  
 
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/teaser_1_anita.png)  
+![TEASER](assets/images/teaser/am_teaser_1_anita.png)  
 {% comment %}
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/teaser_2_anita.png)  
+![TEASER](assets/images/teaser/am_teaser_2_anita.png)  
 {% endcomment %}
 This is the first start of a script for a simple computer role-playing game.
 The users task is it to find its way from home to the university campus.
 While traveling the user has to answer questions which are effecting its destiny.
 Going through the questions step by step the InDesign document builds up a text frame describing the user's journey.  An info-graphic on the bottom of the document will show the user's journey.  
 After completing all quest the user can print the file as an A3 document.  
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/AnitaMei/rollenspielablauf_anita.png)
+![TEASER](assets/images/additional/rollenspielablauf_anita.png)
 [https://gist.github.com/3874630](https://gist.github.com/3874630)  
 
 You can also clone the project with [Git](http://git-scm.com) by running:  

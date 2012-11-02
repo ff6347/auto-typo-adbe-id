@@ -2,11 +2,11 @@
 layout: singlepage
 title: felix and prak highlight
 ---
-#![AVATAR](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/felix_prak.png) Hi,  
+#![AVATAR](assets/images/avatar/felix_prak.png) Hi,  
 we are Felix Harle and Prak Piakot, both design students at FH Potsdam (Felix interface- and Prak product design).  
 ###[highlight](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight.jsx)  
 
-![TEASER](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight_teaser_fp.png)  
+![TEASER](assets/images/teaser/highlight_teaser_fp.png)  
 We set as our goal to create a script that uses highlight data as input (different people, same text) and outputs a visualization of it in the context of the original text in one InDesign document.  
 Basically, the script creates a text frame for each highlight and sets it's opacity to a low level. All these text frames are then stacked over each other, which results in adjoining transparencies in places that were highlighted by more than one person.
 Launch [the script](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/felix_prak/highlight.jsx) to see our result or follow these steps to build your own visualization:  
