@@ -77,7 +77,7 @@ for(var x1 = 0; x1 < pw;x1 = x1 + diam){
 		var oval = page.ovals.add({
 			geometricBounds:[y1,x1,y2,x2],
 			strokeWeight:0,
-			fillColor:doc.swatches[3] /* This is always black */
+			fillColor:doc.swatches[3] /* This is black black on creation */
 		});
 		// now add the oval to the row
 		rows[count] = oval;

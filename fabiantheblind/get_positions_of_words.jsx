@@ -62,7 +62,7 @@ var origin_y = 0; // this is the y loc
 // create a circle on top of the page
 var origin = page.ovals.add();
 origin.geometricBounds = [ origin_y - radius,origin_x - radius ,origin_y + radius, origin_x + radius];
-origin.fillColor = doc.swatches.item(3);/* Thats Black */
+origin.fillColor = doc.swatches.item(3);/* Thats black on creation */
 
 
 // now loop thru the results and draw a line from every words location
