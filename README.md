@@ -4,7 +4,7 @@ auto-typo-adbe-id
 
 This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation". For further info have a look into [the wiki](https://github.com/fabiantheblind/auto-typo-adbe-id/wiki).  
 =======
-![splash](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/master/fabiantheblind/auto-typo.png)  
+![splash](https://raw.github.com/fabiantheblind/auto-typo-adbe-id/gh-pages/assets/images/teaser/a_auto-typo.png)  
 This is the code repository for the FH-Potsdam ;-⟩ project week "Typography & Automation".
 The goal was to learn the basics of JavaScript for Adobe applications to apply this in automated layouts and generative art. Bring raw text into shape by rules.  
   
