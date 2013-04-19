@@ -14,8 +14,9 @@ i'm Philipp ([schlompf](https://github.com/schlompf)), interface-design student 
 I set out to create a game to be played inside InDesign. After some fiddling around, googling and reading all i could find about the capabilities of indesign scripting language, i had a functioning gameloop and working keyboard input. And about 2 weeks later, layout invaders was playable. It's a space invaders inspired game for InDesign.
 
 <div style="width:500px;margin: 0 auto;">
-<iframe src="http://player.vimeo.com/video/52374094?byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/60898598" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
+
 <div style="width:500px;margin: 0 auto;">
     <iframe src="http://player.vimeo.com/video/52374094?badge=0&amp;color=ffffff" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
