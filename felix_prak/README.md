@@ -8,7 +8,7 @@ We set as our goal to create a script that uses highlight data as input (differe
 Launch the script below to see our result or follow these steps to build your own visualization:
 
 1.  Gather some markdown documents containing your text and the highlights (represented by bold text)
-2.  Convert them into HTML using the following tool by Daring Fireball http://goo.gl/6rUzZ
+2.  Convert them into HTML using the following tool by John Gruber http://goo.gl/6rUzZ
 (just paste the markdown content of your documents underneath each other in the same box and click "Convert")
 3.  Copy the HTML output and paste it into our custom built tool below to extract the highlight data for use in InDesign
 
